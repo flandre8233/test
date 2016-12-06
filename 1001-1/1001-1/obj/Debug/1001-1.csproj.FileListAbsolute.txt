@@ -1,0 +1,9 @@
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\bin\Debug\1001-1.exe.config
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\bin\Debug\1001-1.exe
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\bin\Debug\1001-1.pdb
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\_1001_1.Form1.resources
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\_1001_1.Properties.Resources.resources
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\1001-1.csproj.GenerateResource.Cache
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\1001-1.exe
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\1001-1.pdb
+c:\users\gibso\documents\visual studio 2015\Projects\1001-1\1001-1\obj\Debug\1001-1.csprojResolveAssemblyReference.cache
